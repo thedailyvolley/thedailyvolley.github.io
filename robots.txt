@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://thedailyvolley.github.io/sitemap.xml 
